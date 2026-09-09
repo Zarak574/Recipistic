@@ -32,5 +32,4 @@
 
 
  ![Recipistic](assets/images/1.jpg)
- ![Recipistic](assets/images/2.jpg)
- ![Recipistic](assets/images/3.jpg)
+<img src="assets/images/1.jpg" alt="Recipistic" width="800">
