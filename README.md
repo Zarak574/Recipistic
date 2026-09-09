@@ -30,7 +30,7 @@
 
  The overall goal of Recipistic is to **simplify the cooking experience**. Instead of searching through multiple websites to find suitable recipes, users can use one platform to discover meals, filter them according to their preferences, save recipes they like, and get inspiration for what to cook.
 
- <img width="1148" height="1500" alt="1" src="https://github.com/user-attachments/assets/f83e0469-f209-401e-a585-c04c6d7a38f0" />
+ <img width="1148" height="1990" alt="1" src="https://github.com/user-attachments/assets/f83e0469-f209-401e-a585-c04c6d7a38f0" />
  <img width="1148" height="993" alt="3" src="https://github.com/user-attachments/assets/055be7f1-d2f0-40a8-8ed9-55c17d6f4f83" />
 <img width="1148" height="1015" alt="2" src="https://github.com/user-attachments/assets/b11ffd53-763e-4899-986b-ad2f9739fe4b" />
 
