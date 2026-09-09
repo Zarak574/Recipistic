@@ -1,5 +1,8 @@
 ## Recipistic — Cooking Made Easy
 
+<img width="1080" height="1080" alt="2" src="https://github.com/user-attachments/assets/6975de1d-cfd5-42a7-9d1e-755c7644c0e8" />
+
+
 ## Overall Description of Recipistic
 
  **Recipistic** is a recipe discovery and cooking website designed to make finding and preparing meals easier. The main purpose of the website is to provide users with a convenient platform where they can **search, explore, save, and discover recipes from different cuisines around the world**.
